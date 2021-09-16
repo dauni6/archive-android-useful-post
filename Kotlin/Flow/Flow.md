@@ -12,4 +12,8 @@
    https://betterprogramming.pub/asynchronous-data-loading-with-new-kotlin-flow-233f85ae1d8b
    
 
-4. 
+4. 콜드 플로우 효율적으로 사용하기 <br>
+   https://myungpyo.medium.com/%EC%BD%9C%EB%93%9C-%ED%94%8C%EB%A1%9C%EC%9A%B0-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-437a5edcd598
+   
+
+5. 
