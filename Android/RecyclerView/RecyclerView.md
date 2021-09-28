@@ -12,4 +12,11 @@ https://momen-zaq.medium.com/recyclerview-with-nestedscrollview-best-practices-a
 https://khacpv.medium.com/android-best-practice-for-recyclerview-with-headerview-140bd4b10757
     
 
- 4. 
+ 4. Handling click events in RecyclerView <br>
+    https://medium.com/androiddevelopers/for-my-next-trick-i-will-write-about-onclick-45e0a6881c8a
+    
+
+ 5. A Better Way to Handle Click Action in a RecyclerVIew Item. <br>
+    https://oozou.com/blog/a-better-way-to-handle-click-action-in-a-recyclerview-item-60
+    
+ 6. 
