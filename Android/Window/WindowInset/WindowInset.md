@@ -5,4 +5,9 @@
    <br>
    여러개의 파트가 있으므로 모두 확인해 보면 좋음
 
-2. 
+
+2. Android 11: WindowInsets <br>
+   https://blog.stylingandroid.com/android11-windowinsets-part1/
+
+   
+3. 
