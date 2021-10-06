@@ -19,4 +19,17 @@ https://khacpv.medium.com/android-best-practice-for-recyclerview-with-headerview
  5. A Better Way to Handle Click Action in a RecyclerVIew Item. <br>
     https://oozou.com/blog/a-better-way-to-handle-click-action-in-a-recyclerview-item-60
     
- 6. 
+
+ 6. How to Avoid That RecyclerView’s Views are Blinking when notifyDataSetChanged() <br>
+    https://hanru-yeh.medium.com/recyclerviews-views-are-blinking-when-notifydatasetchanged-c7b76d5149a2
+
+
+ 7. Endless Scrolling with AdapterViews and RecyclerView <br>
+    https://guides.codepath.com/android/endless-scrolling-with-adapterviews-and-recyclerview#troubleshooting
+
+
+ 8. [안드로이드] 스크롤뷰 안에 리사이클러뷰 사용시 리사이클러뷰는 스크롤없이 아이템 전체 다 보이게하는 방법 <br>
+    https://youngest-programming.tistory.com/71
+ 
+
+ 9. 
