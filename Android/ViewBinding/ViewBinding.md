@@ -3,7 +3,7 @@
    https://bignerdranch.tistory.com/56
    
 2. Handling Lifecycle with View Binding in Fragments <br>
-   https://medium.com/default-to-open/handling-lifecycle-with-view-binding-in-fragments-a7f237c56832
+   https://medium.cokdi7856m/default-to-open/handling-lifecycle-with-view-binding-in-fragments-a7f237c56832
    
 3. ViewBinding 메모리 누수 방지 git code <br>
    https://github.com/androidbroadcast/ViewBindingPropertyDelegate
