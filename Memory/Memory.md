@@ -10,4 +10,8 @@
 
  3. Java Garbage Collection <br>
     https://d2.naver.com/helloworld/1329
+    
+
+ 4. 9 ways to avoid memory leaks in Android
+    https://medium.com/android-news/9-ways-to-avoid-memory-leaks-in-android-b6d81648e35e
 
