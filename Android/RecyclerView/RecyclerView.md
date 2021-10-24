@@ -32,4 +32,5 @@ https://khacpv.medium.com/android-best-practice-for-recyclerview-with-headerview
     https://youngest-programming.tistory.com/71
  
 
- 9. 
+ 9. Recycler View 제대로 이해하기 - RecyclerView lifecycle <br>
+    https://kimdabang.tistory.com/entry/Recycler-View-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-RecyclerView-lifecycle

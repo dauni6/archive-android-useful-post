@@ -14,3 +14,6 @@
 
  4. [안드로이드] Scoped Storage(범위지정 저장소) 정리 (Legacy Storage와 차이점 정리) [read] <br>
     https://youngest-programming.tistory.com/386
+
+ 5. 안드로이드 Q Scoped Storage에서 살아남기 <br.
+    https://brunch.co.kr/@huewu/14
