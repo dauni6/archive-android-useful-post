@@ -6,3 +6,7 @@
 
  2. Clean Architecture 를 도입하며(UseCase 설명) <br>
     https://vagabond95.me/posts/clean-architecture-1/
+
+
+ 3. Cleaner Code With Use Cases - The Full Guide <br>
+    https://www.youtube.com/watch?v=ufq3LJ-5P6s
