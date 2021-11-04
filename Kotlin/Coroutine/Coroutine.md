@@ -28,3 +28,7 @@
  특히 withTimeoutOrNull을 통해 exception을 동작시키는 withTimeout보다 null로 return하는게 유용하게 사용할 수 있을 것 같다.
 
 
+ 6. Constructing coroutine scope [read] <br>
+ https://kt.academy/article/cc-constructing-scope#definition-1
+
+
