@@ -17,13 +17,17 @@
     old영역의 garbage들을 아무래도 young영역에서 사라지지 않았기 때문에 넘어온 것이라 할당 영역의 크기가 큰 만큼
     old영역에서의 GC는 덜 발생하게 된다. 
 
-     4. 9 ways to avoid memory leaks in Android [read] <br>
-    https://medium.com/android-news/9-ways-to-avoid-memory-leaks-in-android-b6d81648e35e
+ 4. 9 ways to avoid memory leaks in Android [read] <br>
+    https://medium.com/android-news/9-ways-to-avoid-memory-leaks-in-android-b6d81648e35e <br>
     다 읽고 나니 드는 생각이 "아 나는 도대체 얼마나 많은 memory leak을 만들었을까?" 싶었다.
     초보개발자라면 local db로 부터 데이터를 가져올 때 Singleton db class를 사용하여 나도 모르게 activity 또는 fragment의 context를 사용했을지도 모른다
     이렇게 되면 해당 액티비티 또는 프래그먼트가 사라져야할 때 context가 singleton class에 계속 묶여있게 된다.
     activity나 fragment의 context 대신 application context를 사용하자. 만약에 application context를 사용하지 않으면 해당 actitivity나 fragment가
     종료될 때 반드시 context = null 해줄 수 있도록 해야한다.
     이외에도 여러가지 꿀팁들이 많이 있어서 두고두고 읽어볼만 하다
+
+ 5. Android : References to a Context and memory leaks [read] <br>
+    https://stackoverflow.com/questions/3346080/android-references-to-a-context-and-memory-leaks <br.
+    
     
      
