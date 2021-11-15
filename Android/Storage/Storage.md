@@ -26,5 +26,6 @@
  7. [안드로이드] Scoped Storage(범위지정 저장소) 정리 (Legacy Storage와 차이점 정리) [read] <br>
     https://youngest-programming.tistory.com/386
 
-
+ 8. What is /storage/emulated/0/?
+    https://android.stackexchange.com/questions/205430/what-is-storage-emulated-0#
  
