@@ -4,4 +4,5 @@
     https://www.charlezz.com/?p=45391 
     
   
- 2. 
+ 2. Why you need Use Cases/Interactors <br>
+    https://proandroiddev.com/why-you-need-use-cases-interactors-142e8a6fe576
