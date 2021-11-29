@@ -34,3 +34,7 @@ https://khacpv.medium.com/android-best-practice-for-recyclerview-with-headerview
 
  9. Recycler View 제대로 이해하기 - RecyclerView lifecycle <br>
     https://kimdabang.tistory.com/entry/Recycler-View-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-RecyclerView-lifecycle
+    
+10. RecyclerView Item Click in a Better Way [read] <br>
+    https://hamurcuabi.medium.com/recyclerview-item-click-in-a-better-way-c69d9c074ddf <br>
+    핵심은 onCreateViewHolder()에 clickListener를 정의해야 onBindViewHolder()가 매번 호출될 때 같이 호출되지 않는다는 것이다.
