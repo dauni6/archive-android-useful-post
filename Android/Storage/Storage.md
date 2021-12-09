@@ -28,4 +28,12 @@
 
  8. What is /storage/emulated/0/?
     https://android.stackexchange.com/questions/205430/what-is-storage-emulated-0#
+
+ 9. Android 11 storage FAQ <br>
+    https://medium.com/androiddevelopers/android-11-storage-faq-78cefea52b7c
+
+ 10. Android 11 (R) file path access <br>
+     https://stackoverflow.com/questions/60360368/android-11-r-file-path-access
+
+ 11. 
  

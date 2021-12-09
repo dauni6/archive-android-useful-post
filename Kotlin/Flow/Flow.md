@@ -18,3 +18,6 @@
 
 5. Kotlin’s Flow in ViewModels: it’s complicated <br>
    https://bladecoder.medium.com/kotlins-flow-in-viewmodels-it-s-complicated-556b472e281a
+
+6. Android SingleLiveEvent Redux with Kotlin Flow <br>
+   https://proandroiddev.com/android-singleliveevent-redux-with-kotlin-flow-b755c70bb055
