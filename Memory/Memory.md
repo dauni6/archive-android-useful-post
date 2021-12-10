@@ -29,7 +29,7 @@
  5. Android : References to a Context and memory leaks [read] <br>
     https://stackoverflow.com/questions/3346080/android-references-to-a-context-and-memory-leaks <br.
 
- 6. [Kotlin] 메모리릭 방지하기 | Kotlin, Lambda의 강력함 | Lambda는 진리입니다. <br>
+ 6. [Kotlin] 메모리릭 방지하기 | Kotlin, Lambda의 강력함 | Lambda는 진리입니다. [read] <br>
     https://meetup.toast.com/posts/186 <br>
     기본적으로 Anonymous inner class를 사용하면 Outer class의 Reference를 가지게 된다. 그래서 memory leack이 발생할 여지가 있다.
     반면, SAM, lambda를 사용하면 static field를 생성하여 작업을 진행하므로 상대적으로 memory leak이 발생할 여지가 줄어든다.
