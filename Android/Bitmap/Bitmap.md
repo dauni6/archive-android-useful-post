@@ -5,3 +5,6 @@ https://medium.com/marojuns-android/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9
 
 2. 안드로이드 앱 메모리 최적화 <br>
 https://d2.naver.com/helloworld/539525
+
+3. Explained: Bitmap vs Vector Graphics <br>
+https://www.scan2cad.com/blog/tips/bitmap-vs-vector/
