@@ -41,5 +41,9 @@ https://khacpv.medium.com/android-best-practice-for-recyclerview-with-headerview
     
 11. 100만 달러짜리 빠른 앱을 만드는 비법 전수(13:41초부터) <br>
     https://tv.naver.com/v/15353556 / https://jaeryo2357.tistory.com/70
+    뷰의 렌더링을 위한 꿀팁들을 많이 알 수 있었다.
+    
+12. Understanding RecyclerView setHasFixedSize <br>
+    https://stackoverflow.com/questions/28709220/understanding-recyclerview-sethasfixedsize/53261923#53261923
     
   
