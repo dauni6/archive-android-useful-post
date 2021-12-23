@@ -5,4 +5,8 @@
 
 
 2. Building a Segmented Progress Bar in Android <br>
-https://medium.com/betclic-tech/building-a-segmented-progress-bar-in-android-e3f198db393d
+   https://medium.com/betclic-tech/building-a-segmented-progress-bar-in-android-e3f198db393d
+
+
+3. Level-up your custom Views <br>
+   https://medium.com/@nicholas.rose/level-up-your-custom-views-d0c6f69fd1ec
